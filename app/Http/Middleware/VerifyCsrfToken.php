@@ -1,0 +1,3 @@
+protected $except = [
+    '/camera/security',
+];
